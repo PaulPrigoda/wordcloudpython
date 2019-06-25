@@ -143,6 +143,5 @@ def main():
     mostCommon = commonWords(fileNoStop,freq)
     
     g = graphics(mostCommon,win)
-    #hry whats up
 
 main()
